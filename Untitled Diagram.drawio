@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-09T18:39:12.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="iw9iQt-WwD0dXVN263gC" version="15.5.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-09T18:40:27.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="dbm-Mmqofw2U1ChjNpad" version="15.5.0" type="github" pages="3">
   <diagram id="73kJ793TjgEhXTQYmVqE" name="Page-1">
     <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         <mxCell id="gmYxzYEbz-pfEiHAYwmm-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="FF1ScejQasP9HumakdDq-1">
           <mxGeometry x="220" y="220" width="30" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="gmYxzYEbz-pfEiHAYwmm-1" value="&lt;b&gt;PReLU&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="FF1ScejQasP9HumakdDq-1">
+        <mxCell id="gmYxzYEbz-pfEiHAYwmm-1" value="&lt;b&gt;ReLU&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="FF1ScejQasP9HumakdDq-1">
           <mxGeometry x="205" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gmYxzYEbz-pfEiHAYwmm-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="FF1ScejQasP9HumakdDq-1">
@@ -171,6 +171,14 @@
         <mxCell id="gmYxzYEbz-pfEiHAYwmm-3" value="&lt;b&gt;CONV 32&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="FF1ScejQasP9HumakdDq-1">
           <mxGeometry x="266" y="245" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="s8xU90xPGQmDSfIKHmqQ" name="Page-3">
+    <mxGraphModel dx="1038" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="Xgw018pVGNvi9st8i1fm-0" />
+        <mxCell id="Xgw018pVGNvi9st8i1fm-1" parent="Xgw018pVGNvi9st8i1fm-0" />
       </root>
     </mxGraphModel>
   </diagram>
